@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "eventVersion": "1.11",
+      "userIdentity": {
+        "type": "IAMUser",
+        "principalId": "AIDA5EHGZEKZASKWH36WN",
+        "arn": "arn:aws:iam::902427124402:user/canary-human-01",
+        "accountId": "902427124402",
+        "accessKeyId": "AKIA5EHGZEKZGY5AOHX5",
+        "userName": "canary-human-01"
+      },
+      "eventTime": "2025-12-26T11:47:15Z",
+      "eventSource": "sts.amazonaws.com",
+      "eventName": "GetCallerIdentity",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
+
