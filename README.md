@@ -20,7 +20,7 @@ Instead of waiting for damage, this project detects threats **when an attacker t
 
 ---
 
-## 🧠 Why This Matters
+##  Why This Matters
 
 Attackers often:
 - Hunt for unused IAM users
@@ -33,7 +33,7 @@ Any interaction with the canary = **high-confidence alert**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - AWS IAM
 - AWS CloudTrail (Management + Data Events)
@@ -43,7 +43,7 @@ Any interaction with the canary = **high-confidence alert**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 cloud-canary-dna/
 ├── src/
@@ -62,7 +62,7 @@ cloud-canary-dna/
 
 ---
 
-## 🚨 Alerting Flow
+##  Alerting Flow
 
 1. Canary IAM user performs normal behavior
 2. CloudTrail logs activity
@@ -72,7 +72,7 @@ cloud-canary-dna/
 
 ---
 
-## 📸 Proof of Work
+##  Proof of Work
 
 Screenshots included:
 - Canary IAM user
@@ -82,7 +82,7 @@ Screenshots included:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Real-time detection using EventBridge
 - Lambda-based alerting
@@ -91,7 +91,7 @@ Screenshots included:
 
 ---
 
-## 👤 Author
+##  Author
 
 Built by **shahmikh**  
 Focused on cloud security, detection engineering, and threat intelligence.
