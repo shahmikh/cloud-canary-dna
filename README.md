@@ -6,7 +6,7 @@ Instead of waiting for damage, this project detects threats **when an attacker t
 
 ---
 
-## 🔍 What This Project Does
+##  What This Project Does
 
 - Creates fake IAM users that look like real humans
 - Simulates:
